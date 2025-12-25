@@ -1,0 +1,6 @@
+train: C:\Users\abhir\OneDrive\Desktop\Object_Detection\train
+val: C:\Users\abhir\OneDrive\Desktop\Object_Detection\val
+
+nc: 2
+
+names: ["greenlight","redlight"]
